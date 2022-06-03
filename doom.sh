@@ -20,4 +20,5 @@ fi;
 
 
 # clear and launch
-clear && doom
+doom
+clear
